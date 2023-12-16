@@ -1,2 +1,3 @@
 # html-css
-![Screenshot 2023-12-09 at 5 41 38 AM](https://github.com/sudo-self/html-css-template/assets/119916323/916714c4-2f5f-4c8e-8be0-0c606c462ee9)
+![Screenshot 2023-12-16 at 1 25 30 AM](https://github.com/sudo-self/html-css-template/assets/119916323/f8b34de8-2a66-4bf9-81e2-0d75c5e95411)
+
