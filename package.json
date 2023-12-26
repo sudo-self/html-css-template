@@ -10,7 +10,7 @@
     "html",
     "css"
   ],
-  "author": "Ives van Hoorne",
+  "author": "sudo-self",
   "license": "MIT",
   "devDependencies": {
     "serve": "^11.2.0",
